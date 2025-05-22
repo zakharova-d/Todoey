@@ -1,6 +1,15 @@
 {
-  "originHash" : "2174eaf93f622d57be865cd78b51b72620c12528f1f0957292620977c4d69891",
+  "originHash" : "77a458e66eb7bd843b8de100bdafdeeb332014eb5017c4e60359f5f9bed5d0e6",
   "pins" : [
+    {
+      "identity" : "chameleon",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/miraskoda/Chameleon",
+      "state" : {
+        "branch" : "master",
+        "revision" : "1e07082f7f1e7aa38226e8ba5a6584f064830f67"
+      }
+    },
     {
       "identity" : "realm-core",
       "kind" : "remoteSourceControl",
@@ -17,6 +26,15 @@
       "state" : {
         "branch" : "master",
         "revision" : "8cb364a6a63695df296f05b53f7c3f3b1dda6af3"
+      }
+    },
+    {
+      "identity" : "swipecellkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SwipeCellKit/SwipeCellKit",
+      "state" : {
+        "revision" : "7219cad3098637176ace311510d11467dbfb9bb0",
+        "version" : "2.7.1"
       }
     }
   ],
